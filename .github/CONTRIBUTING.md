@@ -1,4 +1,4 @@
-# Contributing to Magento 2 code
+# Contributing to Magento 2 code1
 
 Contributions to the Magento 2 codebase are done using the fork & pull model.
 This contribution model has contributors maintaining their own fork of the Magento 2 repository.
